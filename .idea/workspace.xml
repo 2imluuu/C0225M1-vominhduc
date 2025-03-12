@@ -8,12 +8,18 @@
       <change afterPath="$PROJECT_DIR$/C0225M1-vominhduc/276142553_1621901158176383_459695360191957395_n.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/C0225M1-vominhduc/Bắc Ninh nhạc.mp3" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/C0225M1-vominhduc/Bắc Ninh video.mp4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/C0225M1-vominhduc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/C0225M1-vominhduc/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/C0225M1-vominhduc" />
@@ -29,10 +35,12 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.bai_tap_tao_danh_sach.html.executor": "Run",
     "JavaScript Debug.index.html.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/minhl/WebstormProjects/module 1/C0225M1-vominhduc",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -62,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1741778340046</updated>
-      <workItem from="1741778341062" duration="2514000" />
+      <workItem from="1741778341062" duration="3870000" />
     </task>
     <servers />
   </component>
