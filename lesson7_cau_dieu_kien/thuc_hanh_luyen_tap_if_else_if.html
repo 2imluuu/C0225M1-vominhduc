@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>luyen tap if else if</title>
+</head>
+<body>
+<script>
+  let login = prompt("moi nhap ten nguoi dung","");
+  switch (login) {
+    case 'Admin':
+    password = prompt("moi nhap mat khau",'');
+    result= (password=='TheMaster')?'Welcome':(password=='')?'Canceled':'Wrong Password';
+    alert(result);
+    break;
+    case '':
+      alert('canceled');
+      break;
+    default:
+      alert("I don't know you");
+  }
+</script>
+</body>
+</html>
