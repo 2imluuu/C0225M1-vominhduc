@@ -5,9 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92fb486f-3750-437e-8b22-1cacb55d5cf9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/C0225M1-vominhduc/276142553_1621901158176383_459695360191957395_n.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C0225M1-vominhduc/Bắc Ninh nhạc.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C0225M1-vominhduc/Bắc Ninh video.mp4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson5/bai_tap_tao_from_dang_ky.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/bai_tap_bien_kieu_du_lieu/bai_tap_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/bai_tap_bien_kieu_du_lieu/bai_tap_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/bai_tap_nang_cao.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/bai_tap_ung_dung_quy_doi_tien_Te.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/bien_va_kieu_du_lieu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/thuc_hanh_hien_thi_dau_ra.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/thuc_hanh_khai_bao_va_su_dung_bien.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/thuc_hanh_nhung_js.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/thuc_hanh_toan_tu/thu_hanh_toan_tu.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson6/thuc_hanh_toan_tu/thuc_hanh_toan_tu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,16 +28,20 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/C0225M1-vominhduc" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/C0225M1-vominhduc/bai_tap_tao_cv.html" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2uDLkG2hrdJD9uVDpz6BUzwMndO" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -36,8 +51,16 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
+    "JavaScript Debug.bai_tap_1.html.executor": "Run",
+    "JavaScript Debug.bai_tap_nang_cao.html.executor": "Run",
+    "JavaScript Debug.bai_tap_tao_cv.html.executor": "Run",
     "JavaScript Debug.bai_tap_tao_danh_sach.html.executor": "Run",
+    "JavaScript Debug.bai_tap_tao_from_dang_ky.html.executor": "Run",
+    "JavaScript Debug.bai_tap_ung_dung_quy_doi_tien_Te.html.executor": "Run",
     "JavaScript Debug.index.html.executor": "Run",
+    "JavaScript Debug.thu_hanh_toan_tu.html.executor": "Run",
+    "JavaScript Debug.thuc_hanh_khai_bao_va_su_dung_bien.html.executor": "Run",
+    "JavaScript Debug.thuc_hanh_nhung_js.html.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
@@ -47,12 +70,16 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\minhl\WebstormProjects\module 1\C0225M1-vominhduc" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\minhl\WebstormProjects\module 1\lesson6\thuc_hanh_toan_tu" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -70,7 +97,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1741778340046</updated>
-      <workItem from="1741778341062" duration="3870000" />
+      <workItem from="1741778341062" duration="9097000" />
+      <workItem from="1741951614897" duration="7285000" />
+      <workItem from="1742211838962" duration="8206000" />
     </task>
     <servers />
   </component>

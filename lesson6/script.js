@@ -1,0 +1,1 @@
+alret("xin chào");

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tạo form lấy survey khách hàng</title>
+</head>
+<body>
+<h1>Market reseach survey</h1>
+<p>please take a few moments to complete this satisfaction survey</p>
+<form method="post">
+    <label> What is your age range?</label><br>
+    <select name="age">
+        <option> 18-24</option>
+        <option> 25-34</option>
+        <option> 35-50</option>
+        <option> 50+</option>
+    </select><br>
+    <label> What is your yearly income range?</label><br>
+    <select name="yearly">
+        <option> $0 - $25,000</option>
+        <option> $25,001 - $50,000</option>
+        <option> $50,001 - $100,000</option>
+        <option> $100,000+</option>
+    </select><br>
+    <label> Gender Identity</label><br>
+    <input type="radio" name="Gender"> Male </input><br>
+    <input type="radio" name="Gender"> Female </input><br>
+    <input type="radio" name="Gender"> Nonbinary </input><br>
+    <input type="radio" name="Gender" id="other"> Other </input><br>
+    <textarea name="Gender" rows="1" cols="20"></textarea><br>
+    <label> Maximun of 250 characters. <i>Currently Used: 0 Character</i> </label><br>
+    <label>Which of the following products have your purchased in the last 2 months. Please check all that
+        apply.</label><br>
+    <input type="checkbox"> Product 1 </input><br>
+    <input type="checkbox"> Product 2 </input><br>
+    <input type="checkbox"> Product 3 </input><br>
+    <label>How often would you use our new product</label><br>
+    <input type="radio" name="often"> Daily </input><br>
+    <input type="radio" name="often"> Weekly </input><br>
+    <input type="radio" name="often"> Monthly </input><br>
+    <label> What would you pay for the new product</label><br>
+    <label>$</label>
+    <textarea name="dollar" cols="5" rows="1"></textarea>
+    <label>.</label>
+    <textarea name="Cents" cols="1" rows="1"></textarea><br>
+    <label> What features would you like to see in the new product.</label><br>
+    <textarea name="Features" cols="50" rows="10"></textarea><br>
+    <label>Please rate your level of agreement with the following statements.</label>
+    <table>
+        <tr>
+            <th></th>
+            <th>Strongly Disagree</th>
+            <th>Disagree</th>
+            <th>Agree</th>
+        </tr>
+        <tr>
+            <td>Our products are priced fairly.</td>
+            <td><input type="radio" name="priced">1</td>
+            <td><input type="radio" name="priced">2</td>
+            <td><input type="radio" name="priced">3</td>
+        </tr>
+        <tr>
+            <td>Our products are high quality.</td>
+            <td><input type="radio" name="high">1</td>
+            <td><input type="radio" name="high">2</td>
+            <td><input type="radio" name="high">3</td>
+        </tr>
+        <tr>
+            <td>You would recommend our product to a friend or coworker.</td>
+            <td><input type="radio" name="product">1</td>
+            <td><input type="radio" name="product">2</td>
+            <td><input type="radio" name="product">3</td>
+        </tr>
+    </table>
+    <input type="submit" value="submit">
+</form>
+</body>
+</html>

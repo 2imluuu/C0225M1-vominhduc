@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>quy doi tien te</title>
+</head>
+<body>
+<table>
+  <tr>
+    <th>Amount</th>
+    <th>From Currency</th>
+    <th>To Currency</th>
+  </tr>
+  <tr>
+    <td><input type="Number" id="money" placeholder="so tien"></td>
+    <td><select id="int1">
+      <option value="VN">Vietnam</option>
+      <option value="EN">USD</option>
+    </select></td>
+    <td><select id="int2">
+      <option value="VN">Vietnam</option>
+      <option value="EN">USD</option>
+    </select></td>
+    <td><button onclick="Change()">Convert</button></td>
+  </tr>
+</table>
+<div id="result">So tien tuong ung</div>
+<script>
+  function Change(){
+let m;
+m=document.getElementById("money").value;
+let from=document.getElementById("int1").value;
+let to=document.getElementById("int2").value;
+
+if(from == "VN" && to=="EN"){
+  result = Number(m)/23000;
+}
+else if(from == "EN" && to == "VN"){
+  result = Number(m)*23000;
+}
+else if(from == "VN" && to =="VN"){
+  result = m;
+}
+else if(from == "EN" && to == "EN"){
+  result = m;
+}
+document.getElementById("result").innerHTML = result;
+  }
+</script>
+</body>
+</html>

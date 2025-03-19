@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>tao may tinh</title>
+</head>
+<body>
+<input type="number" id="nb1" placeholder="nhap vao so thu nhat">
+<input type="number" id="nb2" placeholder="nhap vao so thu hai">
+<button onclick="Add()">+</button>
+<button onclick="Sub()">-</button>
+<button onclick="Mul()">*</button>
+<button onclick="Div()">/</button>
+<h3>ket qua</h3>
+<div id="result">Day la ket qua</div>
+
+<script>
+    function Add() {
+        let nb1 = document.getElementById("nb1").value;
+        let nb2 = document.getElementById("nb2").value;
+        let result = Number(nb1) + Number(nb2);
+        document.getElementById("result").innerHTML = result;
+
+    }
+
+    function Sub() {
+        let nb1 = document.getElementById("nb1").value;
+        let nb2 = document.getElementById("nb2").value;
+        let result = Number(nb1) - Number(nb2);
+        document.getElementById("result").innerHTML = result;
+    }
+
+    function Mul() {
+        let nb1 = document.getElementById("nb1").value;
+        let nb2 = document.getElementById("nb2").value;
+        let result = Number(nb1) * Number(nb2);
+        document.getElementById("result").innerHTML = result;
+    }
+    function Div(){
+        let nb1=document.getElementById("nb1").value;
+        let nb2=document.getElementById("nb2").value;
+        let result=Number(nb1)/Number(nb2);
+        document.getElementById("result").innerHTML=result;
+    }
+</script>
+</body>
+</html>'
