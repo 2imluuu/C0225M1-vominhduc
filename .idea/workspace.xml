@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92fb486f-3750-437e-8b22-1cacb55d5cf9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson6/bai_tap_bien_kieu_du_lieu/bai_tap_3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson7_cau_dieu_kien/thuc_hanh_luyen_tap_if_else_if.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson7_cau_dieu_kien/thuc_hanh_switch_case.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson7_cau_dieu_kien/thuc_hanh_toan_tu_3_ngoi.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson5/bai_tap_tao_form_lay_survey.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson5/bai_tap_tao_form_lay_survey.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson6/bai_tap_bien_kieu_du_lieu/bai_tap_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson6/bai_tap_bien_kieu_du_lieu/bai_tap_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson7_cau_dieu_kien/thuc_hanh_kiem_tra_nam_nhuan.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lesson7_cau_dieu_kien/thuc_hanh_luyen_tap_if/else.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +50,8 @@
     "JavaScript Debug.index.html.executor": "Run",
     "JavaScript Debug.thu_hanh_toan_tu.html.executor": "Run",
     "JavaScript Debug.thuc_hanh_khai_bao_va_su_dung_bien.html.executor": "Run",
+    "JavaScript Debug.thuc_hanh_kiem_tra_nam_nhuan.html.executor": "Run",
+    "JavaScript Debug.thuc_hanh_luyen_tap_if_else_if.html.executor": "Run",
     "JavaScript Debug.thuc_hanh_nhung_js.html.executor": "Run",
     "JavaScript Debug.thuc_hanh_switch_case.html.executor": "Run",
     "JavaScript Debug.thuc_hanh_toan_tu_3_ngoi.html.executor": "Run",
@@ -97,7 +94,7 @@
       <workItem from="1741778341062" duration="9097000" />
       <workItem from="1741951614897" duration="7285000" />
       <workItem from="1742211838962" duration="8206000" />
-      <workItem from="1742377351944" duration="4982000" />
+      <workItem from="1742377351944" duration="5615000" />
     </task>
     <servers />
   </component>
