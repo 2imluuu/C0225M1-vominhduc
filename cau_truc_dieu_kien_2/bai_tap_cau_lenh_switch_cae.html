@@ -1,10 +1,19 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
+    <meta charset="UTF-8">
+    <title>Câu lệnh switch-cáe</title>
 </head>
 <body>
-$END$
+<input type="text" id="month" placeholder="Nhập tháng muốn kiển trả">
+<button onclick=trans()>Tính số ngày</button>
+
+<script>
+    function trans() {
+        let m = document.getElementById("month").value;
+        result = (m == 1 || m == 3 || m == 5 || m == 7 || m == 8 || m == 10 || m == 12) ? "tháng" + " " + m + " " + "Có 31 ngày" : (m == 2) ? "tháng 2 có 28 hoặc 29 ngày" : (m == 4 || m == 6 || m == 9 || m == 11) ? "tháng" + " " + m + " " + "có 30 ngày" : "không có tháng này";
+        document.write(result);
+    }
+</script>
 </body>
 </html>

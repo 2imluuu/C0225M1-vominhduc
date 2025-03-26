@@ -1,10 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
+    <meta charset="UTF-8">
+    <title>tính BMI</title>
 </head>
 <body>
-$END$
+<script>
+  let weight = +prompt("nhap can nang, kg",'');
+  let height = +prompt("nhap chieu cao, m", '');
+  bmi = weight/Math.pow(height, 2);
+  result = (bmi >= 30)?"obese":(bmi>=25&&bmi<30)?"overweight":(bmi<25&&bmi>=18.5)?"normal":"underweight";
+  alert(result);
+</script>
 </body>
 </html>

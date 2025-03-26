@@ -6,72 +6,76 @@
 </head>
 <body>
 <table>
-<tr>
-    <th colspan="4"><input type="text" id="dis"></th>
-</tr>
-<br>
-<tr>
-    <td>
-        <button onclick="nb()" value="1">1</button>
-    </td>
-    <td>
-        <button onclick="nb()" value="2">2</button>
-    </td>
-    <td>
-        <button onclick="nb()" value="3">3</button>
-    </td>
-    <td>
-        <button onclick="nb()" value="+">+</button>
-    </td>
-</tr>
-<br>
-<tr>
-    <td>
-        <button onclick="nb()" value="4">4</button>
-    </td>
-    <td>
-        <button onclick="nb()" value="5">5</button>
-    </td>
-    <td>
-        <button onclick="nb()" value="6">6</button>
-    </td>
-    <td>
-        <button onclick="nb()" value="-">-</button>
-    </td>
-</tr>
-<br>
-<tr>
-    <td>
-        <button onclick="nb()" value="7">7</button>
-    </td>
-    <td>
-        <button onclick="nb()" value="8">8</button>
-    </td>
-    <td>
-        <button onclick="nb()" value="9">9</button>
-    </td>
-    <td>
-        <button onclick="nb()" value="*">*</button>
-    </td>
-</tr>
-<br>
-<tr>
-    <td>
-        <button onclick="dlt()">C</button>
-    </td>
-    <td>
-        <button onclick="nb()" value="0">0</button>
-    </td>
-    <td>
-        <button onclick="result()">=</button>
-    </td>
-    <td>
-        <button onclick="nb()" value="/">-</button>
-    </td>
-</tr>
+    <tr>
+        <th colspan="4"><input type="text" id="dis"></th>
+    </tr>
+    <br>
+    <tr>
+        <td>
+            <button onclick="document.getElementById('dis').value += 1">1</button>
+        </td>
+        <td>
+            <button onclick="document.getElementById('dis').value +=2">2</button>
+        </td>
+        <td>
+            <button onclick="document.getElementById('dis').value +=3">3</button>
+        </td>
+        <td>
+            <button onclick="document.getElementById('dis').value += '+' ">+</button>
+        </td>
+    </tr>
+    <br>
+    <tr>
+        <td>
+            <button onclick="document.getElementById('dis').value+=4">4</button>
+        </td>
+        <td>
+            <button onclick="document.getElementById('dis').value+=5">5</button>
+        </td>
+        <td>
+            <button onclick="document.getElementById('dis').value+=6">6</button>
+        </td>
+        <td>
+            <button onclick="document.getElementById('dis').value+='-'">-</button>
+        </td>
+    </tr>
+    <br>
+    <tr>
+        <td>
+            <button onclick="document.getElementById('dis').value+=7">7</button>
+        </td>
+        <td>
+            <button onclick="document.getElementById('dis').value+=8">8</button>
+        </td>
+        <td>
+            <button onclick="document.getElementById('dis').value+=9">9</button>
+        </td>
+        <td>
+            <button onclick="document.getElementById('dis').value+='*'">*</button>
+        </td>
+    </tr>
+    <br>
+    <tr>
+        <td>
+            <button onclick="document.getElementById('dis').value = ''">C</button>
+        </td>
+        <td>
+            <button onclick="document.getElementById('dis').value +=0">0</button>
+        </td>
+        <td>
+            <button onclick="kq()">=</button>
+        </td>
+        <td>
+            <button onclick="document.getElementById('dis').value +='/'">/</button>
+        </td>
+    </tr>
 </table>
 <script>
 
+    function kq() {
+        let kq = eval(document.getElementById('dis').value);
+        document.getElementById('dis').value = kq;
+    }
 </script>
 </body>
 </html>

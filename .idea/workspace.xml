@@ -5,8 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92fb486f-3750-437e-8b22-1cacb55d5cf9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lesson7_cau_dieu_kien/thuc_hanh_kiem_tra_nam_nhuan.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson7_cau_dieu_kien/thuc_hanh_luyen_tap_if/else.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cau_truc_dieu_kien_2/bai_tap_cau_lenh_switch_cae.html" beforeDir="false" afterPath="$PROJECT_DIR$/cau_truc_dieu_kien_2/bai_tap_cau_lenh_switch_cae.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cau_truc_dieu_kien_2/bai_tap_cheap_fast.html" beforeDir="false" afterPath="$PROJECT_DIR$/cau_truc_dieu_kien_2/bai_tap_cheap_fast.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cau_truc_dieu_kien_2/bai_tap_luyen_tap_cau_truc_dieu_kien_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/cau_truc_dieu_kien_2/bai_tap_luyen_tap_cau_truc_dieu_kien_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cau_truc_dieu_kien_2/bai_tap_luyen_tap_cau_truc_dieu_kien_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/cau_truc_dieu_kien_2/bai_tap_luyen_tap_cau_truc_dieu_kien_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cau_truc_dieu_kien_2/bai_tap_may_tinh_don_gian.html" beforeDir="false" afterPath="$PROJECT_DIR$/cau_truc_dieu_kien_2/bai_tap_may_tinh_don_gian.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cau_truc_dieu_kien_2/bai_tap_may_tinh_don_gian_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/cau_truc_dieu_kien_2/bai_tap_may_tinh_don_gian_2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cau_truc_dieu_kien_2/bai_tap_tinh_chi_so_can_nang.html" beforeDir="false" afterPath="$PROJECT_DIR$/cau_truc_dieu_kien_2/bai_tap_tinh_chi_so_can_nang.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cau_truc_dieu_kien_2/html.html" beforeDir="false" afterPath="$PROJECT_DIR$/cau_truc_dieu_kien_2/html.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cau_truc_dieu_kien_2/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/cau_truc_dieu_kien_2/js.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson6/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson6/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_8_cau_truc_vong_lap/bai_tap_sinh_bang_cuu_chuong.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_8_cau_truc_vong_lap/bai_tap_sinh_bang_cuu_chuong.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_8_cau_truc_vong_lap/thuc_hanh_su_dung_vong_lap_do_while.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_8_cau_truc_vong_lap/thuc_hanh_su_dung_vong_lap_do_while.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_8_cau_truc_vong_lap/thuc_hanh_su_dung_vong_lap_for.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_8_cau_truc_vong_lap/thuc_hanh_su_dung_vong_lap_for.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_8_cau_truc_vong_lap/thuc_hanh_su_dung_vong_lap_while.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_8_cau_truc_vong_lap/thuc_hanh_su_dung_vong_lap_while.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,23 +55,35 @@
     "JavaScript Debug.bai_tap_1.html.executor": "Run",
     "JavaScript Debug.bai_tap_2.html.executor": "Run",
     "JavaScript Debug.bai_tap_3.html.executor": "Run",
+    "JavaScript Debug.bai_tap_cau_lenh_switch_cae.html.executor": "Run",
+    "JavaScript Debug.bai_tap_cheap_fast.html.executor": "Run",
+    "JavaScript Debug.bai_tap_luyen_tap_cau_truc_dieu_kien_1.html.executor": "Run",
+    "JavaScript Debug.bai_tap_luyen_tap_cau_truc_dieu_kien_2.html.executor": "Run",
+    "JavaScript Debug.bai_tap_may_tinh_don_gian.html.executor": "Run",
+    "JavaScript Debug.bai_tap_may_tinh_don_gian_2.html.executor": "Run",
     "JavaScript Debug.bai_tap_nang_cao.html.executor": "Run",
+    "JavaScript Debug.bai_tap_sinh_bang_cuu_chuong.html.executor": "Run",
     "JavaScript Debug.bai_tap_tao_cv.html.executor": "Run",
     "JavaScript Debug.bai_tap_tao_danh_sach.html.executor": "Run",
     "JavaScript Debug.bai_tap_tao_from_dang_ky.html.executor": "Run",
+    "JavaScript Debug.bai_tap_tinh_chi_so_can_nang.html.executor": "Run",
     "JavaScript Debug.bai_tap_ung_dung_quy_doi_tien_Te.html.executor": "Run",
+    "JavaScript Debug.html.html.executor": "Run",
     "JavaScript Debug.index.html.executor": "Run",
     "JavaScript Debug.thu_hanh_toan_tu.html.executor": "Run",
     "JavaScript Debug.thuc_hanh_khai_bao_va_su_dung_bien.html.executor": "Run",
     "JavaScript Debug.thuc_hanh_kiem_tra_nam_nhuan.html.executor": "Run",
     "JavaScript Debug.thuc_hanh_luyen_tap_if_else_if.html.executor": "Run",
     "JavaScript Debug.thuc_hanh_nhung_js.html.executor": "Run",
+    "JavaScript Debug.thuc_hanh_su_dung_vong_lap_do_while.html.executor": "Run",
+    "JavaScript Debug.thuc_hanh_su_dung_vong_lap_for.html.executor": "Run",
+    "JavaScript Debug.thuc_hanh_su_dung_vong_lap_while.html.executor": "Run",
     "JavaScript Debug.thuc_hanh_switch_case.html.executor": "Run",
     "JavaScript Debug.thuc_hanh_toan_tu_3_ngoi.html.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/minhl/WebstormProjects/module 1/C0225M1-vominhduc",
+    "last_opened_file_path": "C:/Users/minhl/WebstormProjects/module 1/cau_truc_dieu_kien_2",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -70,6 +95,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\minhl\WebstormProjects\module 1\cau_truc_dieu_kien_2" />
       <recent name="C:\Users\minhl\WebstormProjects\module 1\C0225M1-vominhduc" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -94,7 +120,7 @@
       <workItem from="1741778341062" duration="9097000" />
       <workItem from="1741951614897" duration="7285000" />
       <workItem from="1742211838962" duration="8206000" />
-      <workItem from="1742377351944" duration="5615000" />
+      <workItem from="1742377351944" duration="30340000" />
     </task>
     <servers />
   </component>

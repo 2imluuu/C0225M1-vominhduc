@@ -1,10 +1,41 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
+    <meta charset="UTF-8">
+    <title>bai tap cau truc dieu kien 1</title>
 </head>
 <body>
-$END$
+<script>
+    let a = +prompt(" nhap vao a");
+    let b = +prompt("nhap vao b");
+    let c = (a%b==0)? " a chia het cho b":" a khong chia het cho b";
+    alert(c);
+
+    let old = +prompt("nhap vao so tuoi");
+    let check= ( old <= 16)? " du dieu kien vao hoc lop 10":"khong du dieu kien";
+    alert(check);
+
+    let number = +prompt(" nhap so nguyen muon kiem tra");
+    let checknb = (number>0)?"so "+number+" lon hon 0":"so" + number + " nho hon 0";
+    alert(checknb);
+
+    let a1 = +prompt(" nhap vao so thu nhat");
+    let b1 = +prompt(" nhap vao so thu 2");
+    let c1 = +prompt(" nhap vao so thu 3");
+    let kq = (a>c&&a>b)? a1 + " la so lon nhat" : (b>a&b>c)? b1 + " la so lon nhat": c1 +" la so lon nhat";
+    alert(kq);
+
+    let diemKiemTra = +prompt(" nhap vao diem kiem tra");
+    let diemGiuaKy = +prompt("nhap vao diem giua ky");
+    let diemCuoiKy = +prompt("nhap vao diem cuoi ky");
+    diemtb = (diemKiemTra + diemCuoiKy+ diemGiuaKy)/3;
+    let hocLuc = (diemtb>=8)?"loai gioi":(diemtb<8&&diemtb>=6.5)?"loai kha":(diemtb<6.5&&diemtb>=5)?"loai trung binh":"loai yeu";
+    alert(hocLuc);
+
+    let com = +prompt("nhap vao doanh thu");
+    heSo = (com>= 11&&com<20)?2/100:(com>= 20&& com <=30)?3/100:4/100;
+    hoaHong = com*heSo;
+    alert("hoa hong cua ban la " +hoaHong);
+</script>
 </body>
 </html>
