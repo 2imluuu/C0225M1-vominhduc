@@ -1,10 +1,113 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
+    <meta charset="UTF-8">
+    <title>luyen tap vòng lăp 1</title>
 </head>
 <body>
-$END$
+<script>/*
+//bai 1
+  for(i=1; i<=100;i++){
+    document.write(i + "<br>");
+    if (i==99){
+      document.write("da hoan thanh");
+      break;
+    }
+  }
+
+  //bai 2
+let nhietDoHienTai;
+while(nhietDoHienTai!=="Q") {
+    nhietDoHienTai = prompt("nhap vao nhiet do hien tai hoặc nhap Q de thoat");
+    if (nhietDoHienTai >= 100) {
+        alert("nhiet do hien tai la " + nhietDoHienTai + " yeu cau giam nhiet do");
+    } else if (
+        nhietDoHienTai < 20
+    ) {
+        alert("nhiet do hien tai la " + nhietDoHienTai + " yeu cau tang nhiet do");
+    } else {
+        alert("nhiet do hien tai la " + nhietDoHienTai+ " vừa đủ");
+        break;
+    }
+}
+*/
+
+// bai 3
+/*
+let a=0,b=1;
+for(i=0;i<=20;i++){
+    document.write(a+ " ");
+    let tong = a +b;
+    a=b;
+    b=tong;
+}
+*/
+
+// bai 4
+/*
+let a = 0, b = 1;
+for (i = 0; i <= 20; i++) {
+    document.write(a + " ");
+    let tong = a + b;
+    a = b;
+    b = tong;
+    if (a%5 === 0) {
+        document.write("số " + a + " so dau tien chia het cho 5")
+        break;
+    }
+}
+
+ */
+
+//bai 5
+
+/*
+let a=0,b=1;
+tongSo = 0;
+for(i=0;i<=20;i++){
+    let tong = a +b;
+    tongSo +=tong;
+    a=b;
+    b=tong;
+}
+document.write(tongSo);
+*/
+
+// bai 6
+
+/*let tong=0;
+let x=0;
+let i =0;
+while(x<=30){
+    i++;
+    if(i%7===0){
+        tong=tong+i;
+        x=x+1;
+    }
+}
+console.log(tong);*/
+
+// bai 7
+/*
+for (i = 1; i <= 100; i++) {
+    let result = (i%5===0&&i%3===0)?"fizzbuzz ":(i%5===0)?"buzz ":(i%3===0)?"fizz ":i+" ";
+    document.write(result);
+}*/
+
+// bai 8
+let soBe = +prompt("gia tri thap nhap");
+let soLon = +prompt("gia tri cao nhat");
+let rd = Math.floor(Math.random()*soLon)+soBe;
+alert(rd);
+let ch = +prompt("nhap vao so ban muon doan trong khoang " +soBe +"->"+soLon);
+while(rd!==ch){
+    if(rd>ch){
+        ch=+prompt("qua be nhap lai");
+    } else if (rd<ch){
+        ch=+prompt("qua lon nhap lai");
+    } else
+        break;
+}alert(rd)
+</script>
 </body>
 </html>

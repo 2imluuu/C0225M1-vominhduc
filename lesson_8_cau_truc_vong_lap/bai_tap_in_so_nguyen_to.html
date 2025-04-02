@@ -1,10 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
+    <meta charset="UTF-8">
+    <title>bai tap in so nguyen to</title>
 </head>
 <body>
-$END$
+<script>
+    let numbers = prompt("nhap so luong so nguyen to de kiem tra");
+    let count = 0;
+    let n = 2;
+    while (count < numbers) {
+        for (i = 2; i < n; i++) {
+            if(n%i===0){
+                break;
+            } else (n-1===i){
+                document.write(n+"<br/>");
+            }
+        }
+        n++;
+    }
+</script>
 </body>
 </html>

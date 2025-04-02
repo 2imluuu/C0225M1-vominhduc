@@ -5,21 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="92fb486f-3750-437e-8b22-1cacb55d5cf9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lesson_10_mang_1/thuc_hanh_tao_ban_co_caro.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cau_truc_dieu_kien_2/bai_tap_cau_lenh_switch_cae.html" beforeDir="false" afterPath="$PROJECT_DIR$/cau_truc_dieu_kien_2/bai_tap_cau_lenh_switch_cae.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cau_truc_dieu_kien_2/bai_tap_cheap_fast.html" beforeDir="false" afterPath="$PROJECT_DIR$/cau_truc_dieu_kien_2/bai_tap_cheap_fast.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cau_truc_dieu_kien_2/bai_tap_luyen_tap_cau_truc_dieu_kien_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/cau_truc_dieu_kien_2/bai_tap_luyen_tap_cau_truc_dieu_kien_1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cau_truc_dieu_kien_2/bai_tap_luyen_tap_cau_truc_dieu_kien_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/cau_truc_dieu_kien_2/bai_tap_luyen_tap_cau_truc_dieu_kien_2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cau_truc_dieu_kien_2/bai_tap_may_tinh_don_gian.html" beforeDir="false" afterPath="$PROJECT_DIR$/cau_truc_dieu_kien_2/bai_tap_may_tinh_don_gian.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cau_truc_dieu_kien_2/bai_tap_may_tinh_don_gian_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/cau_truc_dieu_kien_2/bai_tap_may_tinh_don_gian_2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cau_truc_dieu_kien_2/bai_tap_tinh_chi_so_can_nang.html" beforeDir="false" afterPath="$PROJECT_DIR$/cau_truc_dieu_kien_2/bai_tap_tinh_chi_so_can_nang.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cau_truc_dieu_kien_2/html.html" beforeDir="false" afterPath="$PROJECT_DIR$/cau_truc_dieu_kien_2/html.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cau_truc_dieu_kien_2/js.js" beforeDir="false" afterPath="$PROJECT_DIR$/cau_truc_dieu_kien_2/js.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson6/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/lesson6/script.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_8_cau_truc_vong_lap/bai_tap_sinh_bang_cuu_chuong.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_8_cau_truc_vong_lap/bai_tap_sinh_bang_cuu_chuong.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_8_cau_truc_vong_lap/thuc_hanh_su_dung_vong_lap_do_while.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_8_cau_truc_vong_lap/thuc_hanh_su_dung_vong_lap_do_while.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_8_cau_truc_vong_lap/thuc_hanh_su_dung_vong_lap_for.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_8_cau_truc_vong_lap/thuc_hanh_su_dung_vong_lap_for.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lesson_8_cau_truc_vong_lap/thuc_hanh_su_dung_vong_lap_while.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_8_cau_truc_vong_lap/thuc_hanh_su_dung_vong_lap_while.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cau_truc_dieu_kien_2/bai_tap_su_kien_ban_phim.html" beforeDir="false" afterPath="$PROJECT_DIR$/cau_truc_dieu_kien_2/bai_tap_su_kien_ban_phim.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_10_mang_1/bai_tap_su_dung_cac_ham_co_san_cua_mang.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_10_mang_1/bai_tap_su_dung_cac_ham_co_san_cua_mang.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_10_mang_1/test.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_10_mang_1/test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_10_mang_1/thuc_hanh_dao_nguoc_phan_tu_mang.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_10_mang_1/thuc_hanh_dao_nguoc_phan_tu_mang.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_10_mang_1/thuc_hanh_tao_va_thao_tac_voi_mang.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_10_mang_1/thuc_hanh_tao_va_thao_tac_voi_mang.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_10_mang_1/thuc_hanh_tim_gia_tri_trong_mang.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_10_mang_1/thuc_hanh_tim_gia_tri_trong_mang.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_10_mang_1/thuc_hanh_tim_phan_tu_lon_nhat.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_10_mang_1/thuc_hanh_tim_phan_tu_lon_nhat.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_8_cau_truc_vong_lap/bai_tap_in_so_nguyen_to.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_8_cau_truc_vong_lap/bai_tap_in_so_nguyen_to.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_8_cau_truc_vong_lap/bai_tap_luyen_tap_vong_lap_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_8_cau_truc_vong_lap/bai_tap_luyen_tap_vong_lap_1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lesson_8_cau_truc_vong_lap/thuc_hanh_su_dung_vong_lap_long_nhau.html" beforeDir="false" afterPath="$PROJECT_DIR$/lesson_8_cau_truc_vong_lap/thuc_hanh_su_dung_vong_lap_long_nhau.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,12 +54,15 @@
     "JavaScript Debug.bai_tap_3.html.executor": "Run",
     "JavaScript Debug.bai_tap_cau_lenh_switch_cae.html.executor": "Run",
     "JavaScript Debug.bai_tap_cheap_fast.html.executor": "Run",
+    "JavaScript Debug.bai_tap_in_so_nguyen_to.html.executor": "Run",
     "JavaScript Debug.bai_tap_luyen_tap_cau_truc_dieu_kien_1.html.executor": "Run",
     "JavaScript Debug.bai_tap_luyen_tap_cau_truc_dieu_kien_2.html.executor": "Run",
+    "JavaScript Debug.bai_tap_luyen_tap_vong_lap_1.html.executor": "Run",
     "JavaScript Debug.bai_tap_may_tinh_don_gian.html.executor": "Run",
     "JavaScript Debug.bai_tap_may_tinh_don_gian_2.html.executor": "Run",
     "JavaScript Debug.bai_tap_nang_cao.html.executor": "Run",
     "JavaScript Debug.bai_tap_sinh_bang_cuu_chuong.html.executor": "Run",
+    "JavaScript Debug.bai_tap_su_dung_cac_ham_co_san_cua_mang.html.executor": "Run",
     "JavaScript Debug.bai_tap_tao_cv.html.executor": "Run",
     "JavaScript Debug.bai_tap_tao_danh_sach.html.executor": "Run",
     "JavaScript Debug.bai_tap_tao_from_dang_ky.html.executor": "Run",
@@ -70,15 +70,22 @@
     "JavaScript Debug.bai_tap_ung_dung_quy_doi_tien_Te.html.executor": "Run",
     "JavaScript Debug.html.html.executor": "Run",
     "JavaScript Debug.index.html.executor": "Run",
+    "JavaScript Debug.test.html.executor": "Run",
     "JavaScript Debug.thu_hanh_toan_tu.html.executor": "Run",
+    "JavaScript Debug.thuc_hanh_dao_nguoc_phan_tu_mang.html.executor": "Run",
     "JavaScript Debug.thuc_hanh_khai_bao_va_su_dung_bien.html.executor": "Run",
     "JavaScript Debug.thuc_hanh_kiem_tra_nam_nhuan.html.executor": "Run",
     "JavaScript Debug.thuc_hanh_luyen_tap_if_else_if.html.executor": "Run",
     "JavaScript Debug.thuc_hanh_nhung_js.html.executor": "Run",
     "JavaScript Debug.thuc_hanh_su_dung_vong_lap_do_while.html.executor": "Run",
     "JavaScript Debug.thuc_hanh_su_dung_vong_lap_for.html.executor": "Run",
+    "JavaScript Debug.thuc_hanh_su_dung_vong_lap_long_nhau.html.executor": "Run",
     "JavaScript Debug.thuc_hanh_su_dung_vong_lap_while.html.executor": "Run",
     "JavaScript Debug.thuc_hanh_switch_case.html.executor": "Run",
+    "JavaScript Debug.thuc_hanh_tao_ban_co_caro.html.executor": "Run",
+    "JavaScript Debug.thuc_hanh_tao_va_thao_tac_voi_mang.html.executor": "Run",
+    "JavaScript Debug.thuc_hanh_tim_gia_tri_trong_mang.html.executor": "Run",
+    "JavaScript Debug.thuc_hanh_tim_phan_tu_lon_nhat.html.executor": "Run",
     "JavaScript Debug.thuc_hanh_toan_tu_3_ngoi.html.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -120,7 +127,9 @@
       <workItem from="1741778341062" duration="9097000" />
       <workItem from="1741951614897" duration="7285000" />
       <workItem from="1742211838962" duration="8206000" />
-      <workItem from="1742377351944" duration="30340000" />
+      <workItem from="1742377351944" duration="42140000" />
+      <workItem from="1743161663123" duration="5798000" />
+      <workItem from="1743419245433" duration="8254000" />
     </task>
     <servers />
   </component>

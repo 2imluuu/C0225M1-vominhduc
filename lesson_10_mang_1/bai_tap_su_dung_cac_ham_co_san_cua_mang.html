@@ -1,10 +1,47 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
+    <meta charset="UTF-8">
+    <title>su dung cac ham co san cua mang</title>
 </head>
 <body>
-$END$
+<script>
+  // bài 1: nối các phần từ trong mảng thành chuỗi
+  // let mycolor=["xanh","do","den","vang","trang"];
+  // let result ="";
+  // for(i=0;i<mycolor.length;i++){
+  //   result =result + mycolor[i]+",";
+  // }
+  // document.write(result);
+
+  // bài 2: chèn dấu "-" vào giữa các  số chẵn
+//   let soNhap =prompt("mời nhập vào dãy số muốn chia");
+//   let mangSo=soNhap.toString().split("").map(Number);
+//   let result=mangSo[0];
+//   for(i=1;i<mangSo.length;i++){
+//       let soTrc = mangSo[i];
+//       let soSau=mangSo[i-1];
+//       if(soTrc%2==0&&soSau%2==0){
+//           result+="-";
+//       }
+// result+=mangSo[i];
+//   }
+// alert(result);
+
+  //bài 3: chuyển đổi từ chữ thường sang chữ hoa và ngược lại
+  let chuoiNhap=prompt("mời nhập vào chuỗi muốn chuyển");
+  let mangNhap=chuoiNhap.split("");
+  let result = "";
+  for(i=0;i<mangNhap.length;i++){
+      if(mangNhap[i]>="A" &&mangNhap[i]<= "Z"){
+          result+=mangNhap[i].toLowerCase();
+      } else if (mangNhap[i]>="a" && mangNhap[i]<="z") {
+          result+=mangNhap[i].toUpperCase();
+      } else {
+          result+=mangNhap[i];
+      }
+  }
+  alert(result);
+</script>
 </body>
 </html>

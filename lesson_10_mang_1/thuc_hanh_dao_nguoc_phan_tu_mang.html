@@ -1,10 +1,30 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>$Title$</title>
+    <meta charset="UTF-8">
+    <title>dao nguoc cac phan tu trong mang</title>
 </head>
 <body>
-$END$
+<script>
+  let numbs = [3,2,6,1,5,17];
+  let lst = numbs.length -1;
+  // let fst = 0;
+  // while (fst<lst){
+  //   let b = numbs[fst];
+  //   numbs[fst] = numbs[lst];
+  //   numbs[lst]= b;
+  //   fst++;
+  //   lst--;
+  // }
+  // alert(numbs);
+
+  for (let i = 0;i<(numbs.length/g2);i++){
+    let a = numbs[i];
+    numbs[i]= numbs[lst]
+    numbs[lst]=a;
+    lst--;
+  }
+  alert(numbs);
+</script>
 </body>
 </html>
