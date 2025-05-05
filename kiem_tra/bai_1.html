@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>kiem_tra</title>
+</head>
+<body>
+<script>
+    let inputArr = prompt("nhap mang so nguyen");
+    let nbArr = inputArr.split(",");
+    console.log(nbArr);
+    console.log("so luong phan tu nhap vao:" + nbArr.length);
+    if (nbArr.length > 50) {
+        nbArr.splice(50)
+    }
+
+    console.log(nbArr);
+    let sum = 0;
+    let dem = 0;
+    for (let i = 0; i < nbArr.length; i + 2) {
+        if (parseInt(nbArr[i]) % 2 !== 0) {
+            sum += nbArr[i];
+            dem++;
+        }
+    }
+    let tbc = (sum / dem).toFixed(2);
+    console.log(`tbc so le tai vi tri chan la :` + tbc);
+</script>
+</body>
+</html>

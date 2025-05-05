@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+  function checkCapSoThanThiet(a,b){
+    let sumA = 0;
+    for( let i=0; i< a;i++){
+      if( a % i === 0){
+        sumA += i;
+      }
+    }
+    let sumB = 0;
+    for( let i=0; i < b;i++){
+      if( b % i === 0){
+        sumB += i;
+      }
+    }
+    if( sumA === b && sumB === a){
+      return console.log("đây là cặp số thân thiết");
+    } else {
+      return console.timeLog(" đây không phải cặp số thân thiết");
+    }
+  }
+  checkCapSoThanThiet(284,220);
+</script>
+</body>
+</html>
